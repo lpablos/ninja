@@ -1,0 +1,2 @@
+# ninja
+practice spring boot
